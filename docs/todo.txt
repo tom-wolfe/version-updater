@@ -1,0 +1,3 @@
+Handle the event in which version components exceed 65535. Perhaps add an overflow-checked="false" attribute or something?
+
+Make the regular expressions match #.#.* or #.#.#.* - Does this need a mention in the documentation?
